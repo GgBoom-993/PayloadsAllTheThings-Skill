@@ -1,8 +1,5 @@
 # PayloadsAllTheThings — Claude Skill
 
-A Claude Code Skill built from [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings), enabling Claude to look up attack payloads and bypass techniques on demand during penetration testing, bug bounty hunting, and CTF challenges.
-
-## Background
 This skill provides curated attack payloads and bypass techniques for web application security testing (pentests, bug bounties, CTF challenges). Content is sourced from [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) is a well-known collection of web application security payloads covering SQL injection, XSS, SSRF, SSTI, command injection, and dozens of other vulnerability classes.
 
 
