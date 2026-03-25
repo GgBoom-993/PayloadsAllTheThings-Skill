@@ -1,4 +1,4 @@
-# PayloadsAllTheThings — Claude Skill
+# PayloadsAllTheThings — Skill
 
 This skill provides curated attack payloads and bypass techniques for web application security testing (pentests, bug bounties, CTF challenges). Content is sourced from [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) is a well-known collection of web application security payloads covering SQL injection, XSS, SSRF, SSTI, command injection, and dozens of other vulnerability classes.
 
