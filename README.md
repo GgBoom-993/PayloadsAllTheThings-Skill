@@ -91,7 +91,6 @@ payloads-ref/
 | XXE Injection                     | `references/xxe-injection.md`                     |          Yes          |
 | Zip Slip                          | `references/zip-slip.md`                          |                       |
 
-## 
 
 See [SKILL.md](./SKILL.md) for the complete index.
 
